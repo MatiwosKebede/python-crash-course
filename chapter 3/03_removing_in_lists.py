@@ -5,16 +5,16 @@
 Fashion_Brands = ["Puma", "Nike", "Jordan"]
 print(Fashion_Brands) # Displaying the orginal list of Fashion_Brands.
 
-del Fashion_Brands[0] # Removing item that found in the first position or 0 index.
+del Fashion_Brands[0] # Removing item thgitat found in the first position or 0 index.
 print(Fashion_Brands) # Displaying the list after some item is removed.
 
 #remove method in python used to removing by searching the value of the item from the list, but only delete the first value, it is not use index.
 #e.g using remove()
 
-Continent_lists = ["Africa", "Asia", "Europea", "North America", "South America", "Antarctica"]
+Continent_lists = ["Africa", "Asia", "Europea", "North America", "South America", "Antractica"]
 print(Continent_lists) # Displaying the orginal lists.
 
-Continent_list.remove("Antractica")
+Continent_lists.remove("Antractica")
 print(Continent_lists) # Display the lists after the string called Antarctica is removed.
 
 #pop method in python,pop is a method used to remove item from the list by defult its remove the top value which is end the value the list and return the value that removed by them, pop method windly used in the concept of stack.
