@@ -20,7 +20,7 @@ print(Continent_lists) # Display the lists after the string called Antarctica is
 #pop method in python,pop is a method used to remove item from the list by defult its remove the top value which is end the value the list and return the value that removed by them, pop method windly used in the concept of stack.
 #e.g removing item form the list and catching value of removed index.
 
-planets_list = ["Mercury", "Venus", "Earth", "Mars", "Jupter"]
+planets_list = ["Mercury", "Venus", "Earth", "Mars", "Jupter", "Urug"]
 print(planets_list) # Displaying the orginal list.
 
 removed_value = planets_list.pop(2) #remove items that found at 3rd position or 2nd index, also possible only pop() without giving index, which remove the top value which is an end of the value.
