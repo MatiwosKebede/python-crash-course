@@ -6,6 +6,7 @@
 - [Number Operation](#2️⃣-numbers--integers-and-floats)
 - [Boolean Value](#3️⃣-boolean-true--false)
 - [Constant & Comments](#constants--comments)
+ 
 In the previous chapter, we created our first Python file hello_world.py and executed our first line of code:
 
 <pre >   hello_world.py  
